@@ -13,16 +13,31 @@ topics: [
   "mobile device management",
   "BYOD",
   "synchronization",
-  "performance optimization",
+  "app performance",
+  "background processes",
+  "battery optimization",
   "factory reset",
   "backup and restore",
   "security",
   "antivirus",
   "malware protection",
-  "overheating"
+  "overheating",
+  "privacy",
+  "encryption",
+  "policy enforcement",
+  "network security"
 ]
-
-
+objectives: [
+  "Configure wireless and cellular data",
+  "Leverage location services",
+  "Safeguard devices via MDM",
+  "Implement BYOD policies",
+  "Sync data across devices",
+  "Improve app performance",
+  "Perform secure backup and restore",
+  "Troubleshoot performance issues",
+  "Address general security risks"
+]
 
 ## CompTIA A+ Core 1: Optimizing Mobile Devices
 
