@@ -14,9 +14,9 @@ Welcome to my IT certification study notes repository. This repo contains struct
 
 ## Module Index
 
-| Module | Week | Certification | Key Topics |
-|--------|------|---------------|------------|
-| [Module 2: Optimizing Mobile Devices](./week01/day01/module02.md) | 1 | A+ | mobile devices, wireless connectivity, cellular data, location services, MDM, BYOD, synchronization, app performance, battery optimization, factory reset, backup and restore, security, antivirus, malware protection, overheating, privacy, encryption, policy enforcement, network security |
+| Module | Week | Day | Certification | Key Topics |
+|--------|------|-----|---------------|------------|
+| [Module 2: Optimizing Mobile Devices](./week01/day01/module02.md) | 1 | 1 | A+ | mobile devices, wireless connectivity, cellular data, location services, MDM, BYOD, synchronization, app performance, battery optimization, factory reset, backup and restore, security, antivirus, malware protection, overheating, privacy, encryption, policy enforcement, network security |
 
 > Click the module link to access full notes, objectives, and detailed explanations.
 
