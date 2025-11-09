@@ -16,7 +16,7 @@ Welcome to my IT certification study notes repository. This repo contains struct
 
 | Module | Week | Day | Certification | Key Topics |
 |--------|------|-----|---------------|------------|
-| [Module 1: Troubleshooting and Core IT Practices](./week01/day01/module01.md) | 1 | 1 | A+ | troubleshooting methodologies, problem identification, probable cause analysis, testing theories, action plan implementation, system verification, documentation, motherboard, RAM, CPU, power issues, storage drives, RAID arrays, video/display/projector troubleshooting, mobile device troubleshooting |
+| [Module 1: Problem Solving and Best Practices](./week01/day01/module01.md) | 1 | 1 | A+ | troubleshooting methodologies, problem identification, probable cause analysis, testing theories, action plan implementation, system verification, documentation, motherboard, RAM, CPU, power issues, storage drives, RAID arrays, video/display/projector troubleshooting, mobile device troubleshooting |
 | [Module 2: Optimizing Mobile Devices](./week01/day01/module02.md) | 1 | 1 | A+ | mobile devices, wireless connectivity, cellular data, location services, MDM, BYOD, synchronization, app performance, battery optimization, factory reset, backup and restore, security, antivirus, malware protection, overheating, privacy, encryption, policy enforcement, network security |
 
 > Click the module link to access full notes, objectives, and detailed explanations.
