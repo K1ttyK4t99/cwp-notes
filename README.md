@@ -18,6 +18,7 @@ Welcome to my IT certification study notes repository. This repo contains struct
 |--------|------|-----|---------------|------------|
 | [Module 1: Problem Solving and Best Practices](./week01/day01/module01.md) | 1 | 1 | A+ | troubleshooting methodologies, problem identification, probable cause analysis, testing theories, action plan implementation, system verification, documentation, motherboard, RAM, CPU, power issues, storage drives, RAID arrays, video/display/projector troubleshooting, mobile device troubleshooting |
 | [Module 2: Optimizing Mobile Devices](./week01/day01/module02.md) | 1 | 1 | A+ | mobile devices, wireless connectivity, cellular data, location services, MDM, BYOD, synchronization, app performance, battery optimization, factory reset, backup and restore, security, antivirus, malware protection, overheating, privacy, encryption, policy enforcement, network security |
+| [Module 3: Mobile Accessories and Connectivity](./week01/day01/module03.md) | 1 | 1 | A+ | USB connections and standards, Lightning connectors, serial communication, Bluetooth connectivity, NFC technology, mobile device accessories, mobile application connectivity, updating mobile devices, mobile security, wired vs. wireless features, battery management |
 
 > Click the module link to access full notes, objectives, and detailed explanations.
 
@@ -36,9 +37,9 @@ Each module contains the following sections:
 
 ## Usage
 
-- Use **topics** for quick searches in the repo.
-- Use **objectives** to track learning progress.
-- Modules are **linked individually** to keep notes organized.
+- Use **topics** for quick searches in the repo.  
+- Use **objectives** to track learning progress.  
+- Modules are **linked individually** to keep notes organized.  
 - You can clone the repo and open the Markdown files for offline access:
 
 ```bash
