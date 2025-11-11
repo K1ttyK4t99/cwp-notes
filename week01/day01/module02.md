@@ -4,6 +4,7 @@
 
 date: 2025-11-06
 week: 1
+day: 1
 cert: "A+"
 topics: [
   "mobile devices",
